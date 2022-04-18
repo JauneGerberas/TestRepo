@@ -5,6 +5,4 @@ This is another, new line.
 
 Ok so this is the first change I've made in VSCode
 
-##Local Development
-
-Open index in local environment. 
+## This is a line in feature-readme
